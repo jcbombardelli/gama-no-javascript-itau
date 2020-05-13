@@ -1,0 +1,12 @@
+
+button {
+    border: none;
+    color: blue;
+    text-align: center;
+    font-size: small;
+}
+
+.calc {
+    color: red;
+    background-color: yellow;
+}
